@@ -17,7 +17,7 @@ A mystical language translator inspired by the Dune universe, featuring voice re
 
 ## 🌟 Live Demo
 
-Visit the live application: [https://earnest-queijadas-543205.netlify.app](https://dunelanguagetranslator.netlify.app/)
+Visit the live application:(https://dunelanguagetranslator.netlify.app/)
 
 ## 🚀 Quick Start
 
@@ -26,25 +26,6 @@ Visit the live application: [https://earnest-queijadas-543205.netlify.app](https
 - Node.js (v18 or higher)
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/dune-translator.git
-cd dune-translator
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to `http://localhost:5173`
 
 ## 🛠️ Built With
 
@@ -157,9 +138,6 @@ To add new words to the dictionary, edit `src/data/duneLanguage.ts`:
 }
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
