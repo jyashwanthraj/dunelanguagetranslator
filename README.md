@@ -17,7 +17,7 @@ A mystical language translator inspired by the Dune universe, featuring voice re
 
 ## 🌟 Live Demo
 
-Visit the live application: [https://earnest-queijadas-543205.netlify.app](https://earnest-queijadas-543205.netlify.app)
+Visit the live application: [https://earnest-queijadas-543205.netlify.app](https://dunelanguagetranslator.netlify.app/)
 
 ## 🚀 Quick Start
 
@@ -73,9 +73,9 @@ The translator includes over 50 authentic Dune universe terms including:
 5. **Try Random Phrases**: Use the suggestion box to explore famous Dune quotes
 6. **Copy Results**: Click the copy icon to share translations
 
-## 🎵 Audio Features
+## 🎵 Audio Features --  (beta still in progress) -- open for contribution
 
-- **Background Music**: Ambient Dune-inspired soundtrack
+- **Background Music**: Ambient Dune-inspired soundtrack 
 - **Audio Controls**: Play/pause, mute, and volume adjustment
 - **Auto-start**: Music begins automatically (respects browser autoplay policies)
 
@@ -174,13 +174,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Some browsers may block autoplay audio
 - Speech synthesis voices vary by operating system
 
-## 📞 Support
 
-If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/dune-translator/issues) page
-2. Create a new issue with detailed information
-3. Include browser version and error messages
+
 
 ---
 
